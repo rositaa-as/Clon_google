@@ -23,6 +23,10 @@ Contiene las siguientes secciones:
 
 * Footer: Sección que incluye hipervínculos al final de la página.
 
+
+![image](https://user-images.githubusercontent.com/99160117/229006120-4ff6e29e-7fb3-4955-9b37-267a75d22aa7.png)
+
+
 ## 3. Objetivo del Proyecto
 Aprender a utilizar las etiquetas estándar de HTML5 y CSS3.
 
